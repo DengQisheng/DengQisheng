@@ -1,1 +1,1 @@
-- 👋 Hi, I’m Deng Qisheng.
+Hi, I’m Deng Qisheng.
